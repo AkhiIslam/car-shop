@@ -1,0 +1,23 @@
+
+ .product{
+     width: 350px;
+     margin: auto;
+     color: blue;
+     background-color: #ffffff;
+     padding: 15px;
+     border-radius: 10px;
+     margin-bottom: 20px;
+
+ }
+ .form2{
+     padding: 20px;
+     margin: auto;
+     color: blue;
+     width: 300px;
+     border-radius: 15px;
+     background-color: blanchedalmond;
+ }
+ .sizing{
+     text-align: center;
+     margin: auto;
+ }

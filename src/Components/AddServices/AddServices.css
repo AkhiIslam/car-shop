@@ -1,0 +1,9 @@
+.form{
+    margin: auto;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+.form textarea{
+    width: 100%;
+}

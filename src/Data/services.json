@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Roasted Black Bass with Orange-Flower Water",
+        "description": "Brush butterflied whole black bass or branzino with a mix of orange flower water and saffron and pair with herbed rice for a truly special meal.",
+        "price": 750,
+        "img": "https://assets.epicurious.com/photos/58c6be2bd6177b0ba25ba277/1:1/w_960%2Cc_limit/roasted-black-bass-with-orange-flower-water-BA-031317.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Roasted Salmon with Celery and Bulgur Salad",
+        "description": "Flake baked salmon over roasted turnips and bulgur for a casually chic dish that will make any dinner feel like a party.",
+        "price": 650,
+        "img": "https://assets.epicurious.com/photos/588a497d13b8b8b928005e63/1:1/w_960%2Cc_limit/roasted-salmon-with-celery-and-bulgur-salad-BA-011917.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried Whole Fish With Tomatillo Sauce",
+        "price": 1020,
+        "description": "We promise it's not hard to cook whole fish like black sea bass or red snapper. You just need to slash the sides before adding to hot oil, then fry about four minutes on each side. This fish dish includes a tangy tomatillo sauce blended with pickled jalapeños and cilantro, along with the pickling liquid from the peppers.",
+        "img": "https://assets.epicurious.com/photos/599b45c1ccbee25822ea597e/1:1/w_960%2Cc_limit/fried-whole-fish-with-tomatillo-sauce-recipe-BA-081717.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fish Milanese with Cucumber Ceviche",
+        "price": 900,
+        "description": "Serve panko-crusted white fish with a piquant relish of cucumbers, fennel, and chiles, kissed with both lime and cilantro.",
+        "img": "https://assets.epicurious.com/photos/59cbd4618651aa0ba426507c/1:1/w_960%2Cc_limit/fish-milanese-with-cucumber-ceviche.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sole Meuniere with Rice Pilaf",
+        "price": 300,
+        "description": "This classic French bistro preparation pairs lightly breaded fish with a succulent brown butter and lemon pan sauce.",
+        "img": "https://assets.epicurious.com/photos/55db8561edfa3b005396a4ad/1:1/w_960%2Cc_limit/56389967_sole-meuniere.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Broiled Salmon with Scallions and Sesame",
+        "price": 450,
+        "description": "Honey-soy glaze and a spin under the broiler give this salmon a sweet and savory char.",
+        "img": "https://assets.epicurious.com/photos/57053dce07eafc8038cf243f/1:1/w_960%2Cc_limit/0416-BA-CLAP-08.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Balsamic-Glazed Salmon with Spinach, Olives, and Golden Raisins",
+        "description": "Briny olives and sweet golden raisins work in tandem to bring balance to this simple, delicious one-pan fish dinner.",
+        "price": 350,
+        "img": "https://assets.epicurious.com/photos/58b488ebe789164f12814aa1/1:1/w_960%2Cc_limit/BALSAMIC-GLAZED-SALMON-WITH-SPINACH-OLIVES-AND-GOLDEN-RAISINS-16022017.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Whole Grilled Salmon with Chanterelles",
+        "description": "This recipe is going to instruct you to remove the backbone of the fish from inside the cavity—no small task but well worth it. You can also just tie two whole fillets of salmon together (skin side facing out) if you’d like.",
+        "price": 650,
+        "img": "https://assets.epicurious.com/photos/59233d7b642cd43dedbdc3b3/1:1/w_960%2Cc_limit/whole-grilled-salmon-with-chanterelles-BA-052217.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Spiced Salmon Kebabs",
+        "price": 500,
+        "description": "Here's a little trick: Thread salmon pieces onto two skewers so they don't flip and spin every time you turn them on the grill.",
+        "img": "https://assets.epicurious.com/photos/5995b899c7895b256c18bcb7/1:1/w_960%2Cc_limit/salmon-kebabs-with-lemon-recipe-BA-071717.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pan-Fried Sea Bass with Miso, Lemon, and Thyme-Glazed Roasties",
+        "price": 900,
+        "description": "A tangy dish full of zing. The thyme adds deep flavor and the roasted root vegetables give real crunch.",
+        "img": "https://assets.epicurious.com/photos/5882973f00b8786e0adf1637/1:1/w_960%2Cc_limit/pan-fried-sea-bass-with-miso-lemon-and-thyme-glazed-roasted-vegetables-HC-012017.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Butter-Basted Halibut Steaks with Capers",
+        "price": 1200,
+        "description": "This is a simple recipe for halibut steaks, and it's one of our favorite fish dishes by far. You'll make good use of a half-stick of butter, plus garlic, capers, and fresh thyme.",
+        "img": "https://assets.epicurious.com/photos/54acc25a19925f464b3af780/1:1/w_960%2Cc_limit/51210050_halibut-steaks_1x1.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Slow-Roasted Salmon with Fennel, Citrus, and Chiles",
+        "price": 1500,
+        "description": "Slow roasting the salmon prevents it from overcooking, leaving it perfectly tender.",
+        "img": "https://assets.epicurious.com/photos/5846de38abd8719c6e734035/1:1/w_960%2Cc_limit/slow-roasted-salmon-with-fennel-citrus-and-chiles-120616.jpg"
+    }
+]
