@@ -1,6 +1,10 @@
 My Website Name : Car Shop. 
 Live Site Link:(https://car-shop-9b5dc.web.app/)
-About My Website:Welcome to the genius way to buy your next carDriveTime has financed over 4 million people across the country. Our exclusive In-House financing model allows us to provide flexible options for all.
+About My Website:
+*A Full Stack Responsive Website with Firebase Authentication (email , password) and React.All Data is  Loaded by MongoDB.
+*Dashboard has different functionality for user and admin. A user can see his state of order and also can give  a  review.
+*Admin Get Full Access to Website. Admin can add  or delete products. Can change order states  and also make a user to admin.
+
 
 *Our Best Facilities
 1.Welcome to the genius way to buy your next car.
